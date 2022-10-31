@@ -70,7 +70,7 @@ def app():
 
     st.write("""
             WOW!!! Zero null values
-        [Wanna more about how I clean dataset ](https://github.com/Muthukamalan/Porter-Projetc)
+        [Wanna more about how I clean dataset ](https://github.com/Muthukamalan/Porter-Logistic-Project)
     """)
 
     
