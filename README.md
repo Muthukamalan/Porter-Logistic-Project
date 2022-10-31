@@ -5,7 +5,7 @@ A simple framework in python to create multi page web application using streamli
 
 1. Clone the repository:
 ```
-$ cd  streamlit-porter
+$ cd  Porter-Logistic-Project
 ```
 
 2. Install dependencies:
